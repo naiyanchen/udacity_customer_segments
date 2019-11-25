@@ -14,6 +14,8 @@ The dataset for this project can be found on the [UCI Machine Learning Repositor
 5. Clustering using Gaussian Mixture Models 
 6. Cluster performance evaluation using Silhouette scores and distances between GMMs based on Jensen-Shannon metric
 
+# Jupyter notebook [here](https://github.com/naiyanchen/udacity_customer_segments/blob/master/Udacity_Customer_segments.ipynb)
+
 # References 
 
 1. [scikit-learn](https://scikit-learn.org/stable/)
